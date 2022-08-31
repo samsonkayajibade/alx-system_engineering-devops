@@ -1,1 +1,1 @@
-name of the current working directory
+directory contents in a long format
