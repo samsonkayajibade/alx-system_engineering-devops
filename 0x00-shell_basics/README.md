@@ -1,1 +1,1 @@
-Display current directory
+forth task
