@@ -1,1 +1,1 @@
-deletes all files in the current
+welcome/to/school
