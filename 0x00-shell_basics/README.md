@@ -1,1 +1,1 @@
-in a long formatt
+deletes all files in the current
