@@ -1,1 +1,1 @@
-Display current directory
+the thied
