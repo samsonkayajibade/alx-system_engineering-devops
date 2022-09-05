@@ -1,1 +1,1 @@
-echo hello world
+display Nme and login
